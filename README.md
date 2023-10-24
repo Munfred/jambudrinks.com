@@ -52,11 +52,10 @@ The following products are available for immediate fulfillment:
 Brazilian craft liqueurs are made with a base of silver cachaça, sugar and fruit infusions. Dom Tapparo boasts an extensive liqueur lineup, including many unique brazilian flavors such as jabuticaba ( Brazilian grapetree, _Plinia cauliflora_) and jenipapo (_Genipa americana_). The following are avaialble for immediate fulfillment.
 
 - Jabuticaba cream liqueur 750ml `COD. 585616`
-- Passion fruit liqueur  750ml `COD. 585620`
-- Corn cream liqueur
-- Jenipapo liqueur
-- Doce de leite liqueur
-- Tangerine liqueur
+- Passion fruit liqueur 750ml `COD. 585620`
+- Corn cream liqueur 750ml `COD. 585622`
+- Jenipapo liqueur 750ml `COD. 585617`
+- Doce de leite liqueur 750ml `COD. 588728`
 
  
 
@@ -65,6 +64,6 @@ As a team of cachaça enthusiasts (cachaceiros, as we'd say in Brazil ;), we pou
 
 Reach out to us at jambudrinks@gmail.com
 ​
-Saúde! 
+_Saúde!_
 
 - Eduardo & Dylan
