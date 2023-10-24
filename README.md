@@ -15,7 +15,10 @@ Jambu Drinks currently distributes brazilian spirits produced by [Engenho Buriti
 
 # Products - Engenho Buriti
 
-the Famosinha de Minas cachaça product line, produced at and the 
+Jambu Drinks distributes the Famosinha de Minas cachaça product line: Famo Silver, Famo Cherry, and Famo Oak.
+
+For full product information and cocktail recipes, visit [famosinha.us](https://famosinha.us) or download 
+
 
 # Products - Engenho Dom Tapparo
 
