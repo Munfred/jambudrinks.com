@@ -20,7 +20,22 @@ Jambu Drinks distributes the Famosinha de Minas cachaça product line, produced 
 - Famo Cherry, aged in Amburana (Brazilian Cherry) for 2 years
 - Famo Oak, aged in French Oak for 2 years
 
-For full product information and cocktail recipes, visit [famosinha.us](https://famosinha.us) or download the [Famo Menu](https://jambudrinks.com/famo_menu.pdf)
+
+![famos](https://github.com/Munfred/jambudrinks.com/assets/12504176/83af2321-56a1-4339-9c52-b08ced9d90f8)
+
+### Famosinha is available for immediate fullfillment from our Los Angeles warehouse. Contact us to schedule a tasting. 
+
+
+### For more information and cocktail recipes, visit [famosinha.us](https://famosinha.us) or download the [Famo Menu](https://jambudrinks.com/famo_menu.pdf)
+  
+
+
+<img width="1059" alt="image" src="https://github.com/Munfred/jambudrinks.com/assets/12504176/114f3cb3-317b-4e4e-be5e-89a40f977a82">
+
+<img width="1059" alt="image" src="https://github.com/Munfred/jambudrinks.com/assets/12504176/e03677af-e76a-433b-8108-c761ab78d859">
+
+<img width="1059" alt="image" src="https://github.com/Munfred/jambudrinks.com/assets/12504176/9fe9a0d1-b8c0-4596-8510-3fc66fdbbce3">
+
 
 ## Products - Engenho Dom Tapparo
 
@@ -36,7 +51,7 @@ Certain Dom Tapparo products may have a lead time, please email us at jambudrink
 ![dom tapparo cocktails v3](https://github.com/Munfred/jambudrinks.com/assets/12504176/40db8c45-58e9-4321-ad7c-936313ba347d)
 
 
-### The following Dom Tapparo products are available for immediate fulfillment:
+### The following Dom Tapparo products are available for immediate fulfillment from our Florida warehouse
 
 #### Premium Cachaça Lineup
 - Dom Tapparo Carvalho (French Oak) 15 years extra premium aged cachaça 700 ml `COD. 0000001`
@@ -68,8 +83,9 @@ Brazilian craft liqueurs are made with a base of silver cachaça, sugar and frui
 # About
 As a team of cachaça enthusiasts (cachaceiros, as we'd say in Brazil ;), we pour our heart and soul in every bottle. 
 
-Reach out to us at jambudrinks@gmail.com
+Reach out to us at **jambudrinks@gmail.com**
 
+or via text, call and [WhatsApp](https://wa.me/16263449603) at **(626) 344-9603**
 ​
  _Saúde!_
 
