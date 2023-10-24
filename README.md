@@ -33,16 +33,16 @@ Certain Dom Tapparo products may have a lead time, please email us at jambudrink
 The following products are available for immediate fulfillment:
 
 #### Premium Lineup
-- Dom Tapparo Carvalho (Oak) 15 years extra premium aged cachaça
-- Dom Tapparo Carvalho (Oak)  15 years extra premium aged cachaça
-- Dom Tapparo Carvalho (Oak)  10 years extra premium aged cachaça
-- Dom Tapparo Jequitibá (Brazilian Mahogany) 6 years aged cachaça
-- Dom Tapparo Amburana (Brazilian Cherry) 6 years aged cachaça
+- Dom Tapparo Carvalho (French Oak) 15 years extra premium aged cachaça 700 ml `COD. 0000001`
+- Dom Tapparo Carvalho (French Oak)  12 years extra premium aged cachaça 750 ml `COD. 0000002`
+- Dom Tapparo Carvalho (American Oak)  10 years extra premium aged cachaça 750 ml `COD. 0000041`
+- Dom Tapparo Jequitibá 6 years aged cachaça 700 ml `COD. 0000008`
+- Dom Tapparo Amburana 6 years aged cachaça 750 ml `COD. 000670`
 
 #### Standard Lineup - Cabaré
-- Cabaré Amendoim Silver cachaça 
-- Cabaré Carvalho (Oak) Gold cachaça 
-- Cabaré Amburana (Brazilian Cherry) Gold cachaça 
+- Cabaré Amendoim Silver cachaça 1L `COD. 585627`
+- Cabaré Carvalho (French Oak) Gold cachaça `COD. 585626`
+- Cabaré Amburana Gold cachaça 1L `COD. 589505`
 - Cabaré Canela (cinnamon) Fire cachaça 
 - Dom Tapparo Caipirinha kit
 
