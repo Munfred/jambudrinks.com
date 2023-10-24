@@ -26,24 +26,30 @@ For full product information and cocktail recipes, visit [famosinha.us](https://
 
 Jambu Drinks distributes Dom Tapparo's extensive product lineup, which includes a selection of aged cachaças, the famous Caberé lineup, liqueurs, and cocktails.
 
-For information on all available products, download the [Dom Tapparo catalogue](https://jambudrinks.com/domtapparo.pdf).
+For information on all available products, download the [Dom Tapparo PDF catalogue](https://jambudrinks.com/domtapparo.pdf) or see below.
 
 Certain Dom Tapparo products may have a lead time, please email us at jambudrinks@gmail.com for precise lead times. 
+![dom tapparo aged cachaças](https://github.com/Munfred/jambudrinks.com/assets/12504176/be3689ef-f1ef-4131-bef7-27dd903bf8b2)
 
-The following products are available for immediate fulfillment:
+![dom tapparo liqueurs](https://github.com/Munfred/jambudrinks.com/assets/12504176/671bf51c-4ff9-4a03-a75c-7880733bb742)
 
-#### Premium Lineup
+![dom tapparo cocktails v3](https://github.com/Munfred/jambudrinks.com/assets/12504176/40db8c45-58e9-4321-ad7c-936313ba347d)
+
+
+### The following Dom Tapparo products are available for immediate fulfillment:
+
+#### Premium Cachaça Lineup
 - Dom Tapparo Carvalho (French Oak) 15 years extra premium aged cachaça 700 ml `COD. 0000001`
 - Dom Tapparo Carvalho (French Oak)  12 years extra premium aged cachaça 750 ml `COD. 0000002`
 - Dom Tapparo Carvalho (American Oak)  10 years extra premium aged cachaça 750 ml `COD. 0000041`
 - Dom Tapparo Jequitibá 6 years aged cachaça 700 ml `COD. 0000008`
 - Dom Tapparo Amburana 6 years aged cachaça 750 ml `COD. 000670`
 
-#### Standard Lineup - Cabaré
+#### Standard Lineup - Cabaré & cocktails
 - Cabaré Amendoim Silver cachaça 1L `COD. 585627`
 - Cabaré Carvalho (French Oak) Gold cachaça `COD. 585626`
 - Cabaré Amburana Gold cachaça 1L `COD. 589505`
-- Cabaré Canela (cinnamon) Fire cachaça 1L `COD. 000040`
+- Kenga Canela (cinnamon) Fire cachaça cocktail 1L `COD. 000040`
 - Dom Tapparo Caipirinha 1L `COD. 000009`
 - Dom Tapparo Tangerine Cocktail 1L `COD. 000009`
 
