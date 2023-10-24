@@ -43,16 +43,17 @@ The following products are available for immediate fulfillment:
 - Cabaré Amendoim Silver cachaça 1L `COD. 585627`
 - Cabaré Carvalho (French Oak) Gold cachaça `COD. 585626`
 - Cabaré Amburana Gold cachaça 1L `COD. 589505`
-- Cabaré Canela (cinnamon) Fire cachaça 
-- Dom Tapparo Caipirinha kit
+- Cabaré Canela (cinnamon) Fire cachaça 1L `COD. 000040`
+- Dom Tapparo Caipirinha 1L `COD. 000009`
+- Dom Tapparo Tangerine Cocktail 1L `COD. 000009`
 
 #### Brazilian craft Liqueurs 
 
 Brazilian craft liqueurs are made with a base of silver cachaça, sugar and fruit infusions. Dom Tapparo boasts an extensive liqueur lineup, including many unique brazilian flavors such as jabuticaba ( Brazilian grapetree, _Plinia cauliflora_) and jenipapo (_Genipa americana_). The following are avaialble for immediate fulfillment.
 
-- Jabuticaba Liqueur
-- Passion fruit (maracujá) liqueur
-- Corn liqueur
+- Jabuticaba cream liqueur 750ml `COD. 585616`
+- Passion fruit liqueur  750ml `COD. 585620`
+- Corn cream liqueur
 - Jenipapo liqueur
 - Doce de leite liqueur
 - Tangerine liqueur
