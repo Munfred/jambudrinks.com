@@ -49,7 +49,7 @@ Certain Dom Tapparo products may have a lead time, please email us at jambudrink
 - Cabaré Amendoim Silver cachaça 1L `COD. 585627`
 - Cabaré Carvalho (French Oak) Gold cachaça `COD. 585626`
 - Cabaré Amburana Gold cachaça 1L `COD. 589505`
-- Kenga Canela (cinnamon) Fire cachaça cocktail 1L `COD. 000040`
+- Kenga Cinnamon cachaça cocktail 1L `COD. 000040`
 - Dom Tapparo Caipirinha 1L `COD. 000009`
 - Dom Tapparo Tangerine Cocktail 1L `COD. 000009`
 
