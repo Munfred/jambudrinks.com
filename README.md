@@ -62,7 +62,7 @@ Brazilian craft liqueurs are made with a base of silver cachaça, sugar and frui
 ### About
 As a team of cachaça enthusiasts (cachaceiros, as we'd say in Brazil ;), we pour our heart and soul in every bottle. 
 
-Reach out to us at jambudrinks@gmai.com
+Reach out to us at jambudrinks@gmail.com
 ​
 Saúde! 
 
