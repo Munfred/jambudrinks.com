@@ -1,4 +1,4 @@
-Jambu Drinks, LLC
+# Jambu Drinks, LLC
 
 #### _We sell cachaça_
 
@@ -9,8 +9,13 @@ Contact us for purchases at
 or via text, call and [WhatsApp](https://wa.me/16263449603) at 
 ### `(626) 344-9603`
 
-# Products
+# Producers
 
+Jambu Drinks currently distributes brazilian spirits produced by [Engenho Buriti](http://www.engenhoburiti.com.br/) in Minas Gerais, and by [Engenho Dom Tapparo](https://www.domtapparo.com.br/) in São Paulo.
+
+
+
+the Famosinha de Minas cachaça product line, produced at and the 
 
 
 ### About
