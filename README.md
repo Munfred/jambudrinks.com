@@ -16,9 +16,9 @@ Jambu Drinks currently distributes brazilian spirits produced by [Engenho Buriti
 ## Products - Engenho Buriti
 
 Jambu Drinks distributes the Famosinha de Minas cachaça product line, produced at Engenho Buriti: 
-- Famo Silver, a blend aged in Jequitivá (Brazilian Mahogany)
-- Famo Cherry, aged in Amburana (Brazilian Cherry) for 2 years
-- Famo Oak, aged in French Oak for 2 years
+- **Famo Silver**, a blend aged in Jequitivá (Brazilian Mahogany)
+- **Famo Cherry**, aged in Amburana (Brazilian Cherry) for 2 years
+- **Famo Oak**, aged in French Oak for 2 years
 
 
 ![famos](https://github.com/Munfred/jambudrinks.com/assets/12504176/83af2321-56a1-4339-9c52-b08ced9d90f8)
@@ -39,11 +39,11 @@ Jambu Drinks distributes the Famosinha de Minas cachaça product line, produced 
 
 ## Products - Engenho Dom Tapparo
 
-Jambu Drinks distributes Dom Tapparo's extensive product lineup, which includes a selection of aged cachaças, the famous Caberé lineup, liqueurs, and cocktails.
+Jambu Drinks distributes Dom Tapparo's extensive product lineup, which includes a selection of aged cachaças, the famous Cabaré lineup, liqueurs, and cocktails.
 
 For information on all available products, download the [Dom Tapparo PDF catalogue](https://jambudrinks.com/domtapparo.pdf) or see below.
 
-Certain Dom Tapparo products may have a lead time, please email us at jambudrinks@gmail.com for precise lead times. 
+Certain Dom Tapparo products may have a lead time, please email us at **jambudrinks@gmail.com** for precise lead times. 
 ![dom tapparo aged cachaças](https://github.com/Munfred/jambudrinks.com/assets/12504176/be3689ef-f1ef-4131-bef7-27dd903bf8b2)
 
 ![dom tapparo liqueurs](https://github.com/Munfred/jambudrinks.com/assets/12504176/671bf51c-4ff9-4a03-a75c-7880733bb742)
@@ -51,7 +51,7 @@ Certain Dom Tapparo products may have a lead time, please email us at jambudrink
 ![dom tapparo cocktails v3](https://github.com/Munfred/jambudrinks.com/assets/12504176/40db8c45-58e9-4321-ad7c-936313ba347d)
 
 
-### The following Dom Tapparo products are available for immediate fulfillment from our Florida warehouse
+### The following Dom Tapparo products are currently available for fulfillment from our Florida warehouse and have shorter lead times.
 
 #### Premium Cachaça Lineup
 - Dom Tapparo Carvalho (French Oak) 15 years extra premium aged cachaça 700 ml `COD. 0000001`
@@ -70,15 +70,14 @@ Certain Dom Tapparo products may have a lead time, please email us at jambudrink
 
 #### Brazilian craft Liqueurs 
 
-Brazilian craft liqueurs are made with a base of silver cachaça, sugar and fruit infusions. Dom Tapparo boasts an extensive liqueur lineup, including many unique brazilian flavors such as jabuticaba ( Brazilian grapetree, _Plinia cauliflora_) and jenipapo (_Genipa americana_). The following are avaialble for immediate fulfillment.
+Brazilian craft liqueurs are made with a base of silver cachaça, sugar and fruit infusions. Dom Tapparo boasts an extensive liqueur lineup, including many unique brazilian flavors such as jabuticaba ( Brazilian grapetree, _Plinia cauliflora_) and jenipapo (_Genipa americana_). The following are currently avaialble for fulfillment.
 
-- Jabuticaba cream liqueur 750ml `COD. 585616`
+- Jabuticaba liqueur 750ml `COD. 585616`
 - Passion fruit liqueur 750ml `COD. 585620`
-- Corn cream liqueur 750ml `COD. 585622`
+- Corn liqueur 750ml `COD. 585622`
 - Jenipapo liqueur 750ml `COD. 585617`
 - Doce de leite liqueur 750ml `COD. 588728`
 
- 
 
 # About
 As a team of cachaça enthusiasts (cachaceiros, as we'd say in Brazil ;), we pour our heart and soul in every bottle. 
